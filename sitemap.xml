@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.liyanghan.com/404.html</loc>
+    
+    <lastmod>2017-09-19T11:36:34.109Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.liyanghan.com/categories/index.html</loc>
     
     <lastmod>2017-09-19T07:48:15.083Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>http://www.liyanghan.com/about/index.html</loc>
     
     <lastmod>2017-09-19T07:45:16.798Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.liyanghan.com/404.html</loc>
-    
-    <lastmod>2017-09-19T02:05:19.115Z</lastmod>
     
   </url>
   
